@@ -1,0 +1,12 @@
+name: OneLine
+author: JulieBoy
+version: 1.0.5
+main: me.main.Main
+
+commands:
+  forcemap:
+  setlobby:
+  setup:
+  setmap:
+  setstandard:
+  stats:
